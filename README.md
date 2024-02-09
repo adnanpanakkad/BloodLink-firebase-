@@ -1,7 +1,7 @@
 # blood_donation_app
 
 A new Flutter project.
-This application under working
+This application under working on integration of firebase
 ## Getting Started
 
 This project is a starting point for a Flutter application.
